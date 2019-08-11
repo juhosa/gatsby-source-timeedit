@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-source-timeedit",
+  "description": "A GatsbyJS source plugin for retrieving data for a specific course from TimeEdit.",
+  "version": "1.0.0",
+  "dependencies": {
+    "@juhosa/time-edit-api": "^1.0.0"
+  },
+  "main": "gatsby-node.js",
+  "author": "Juho Salli <juho@jsalli.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/juhosa/gatsby-source-timeedit.git"
+  },
+  "homepage": "https://github.com/juhosa/gatsby-source-timeedit",
+  "bugs": {
+    "url": "https://github.com/juhosa/gatsby-source-timeedit/issues"
+  },
+  "keywords": [
+    "timeedit",
+    "gatsby",
+    "gatsby-source"
+  ],
+  "license": "MIT"
+}
